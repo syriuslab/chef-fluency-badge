@@ -1,5 +1,5 @@
 name 'apache'
-maintainer 'Flavio'
+maintainer 'flavio'
 maintainer_email 'syriuscloudarchitect@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures apache'
